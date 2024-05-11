@@ -34,7 +34,8 @@ Response
 In the response you will find a link that will be received by the API, and that link will redirect to the song (if the process was finished)
 
 ## Run locally
-You can run this code locally. Node.js is mandatory and you must create an account and get a token that you must replace it in the code.
+- You need to have Golang installed on your computer.
+- You must create an account in [MusicGen](https://replicate.com/meta/musicgen) and get a token that you must replace it in the code.
 
 
 ## Song example
